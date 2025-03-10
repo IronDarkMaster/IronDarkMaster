@@ -23,13 +23,13 @@ We specialize in low-level programming and operating system development, contrib
 
 Cybersecurity & Ethical Hacking
 Technologies:
-<img src="https://www.kali.org/images/favicon.svg" alt="Kali Linux" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux" width="50" height="50">
+<img src="https://www.kali.org/images/favicon.svg" alt="Kali Linux" width="50" height="50"> <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="50" height="50">
 Description:
 Our expertise in cybersecurity ensures the development of secure systems and applications, with a focus on ethical hacking practices.
 
 Game Development & Graphics Programming
 Technologies:
-<img src="https://godotengine.org/assets/press/logo_large_color_light.png" alt="Unity Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_logo.svg" alt="Godot" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/OpenGL_logo.svg" alt="OpenGL Logo" width="50" height="50">
+<img src="https://godotengine.org/assets/press/logo_large_color_light.png" alt="Unity" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_logo.svg" alt="Godot" width="50" height="50">
 Description:
 We create immersive gaming experiences using cutting-edge game engines and graphics programming techniques.
 
