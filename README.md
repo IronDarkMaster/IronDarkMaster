@@ -17,7 +17,7 @@ Our team crafts responsive websites and mobile applications, ensuring seamless u
 
 System Programming & OS Development
 Technologies:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C Logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/C%2B%2B_Logo.svg" alt="C++" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/C%2B%2B_Logo.svg" alt="C++" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50">
 Description:
 We specialize in low-level programming and operating system development, contributing to projects that enhance system performance and security.
 
