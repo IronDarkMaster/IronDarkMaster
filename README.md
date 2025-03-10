@@ -29,7 +29,7 @@ Our expertise in cybersecurity ensures the development of secure systems and app
 
 Game Development & Graphics Programming
 Technologies:
-<img src="https://godotengine.org/assets/press/logo_large_color_light.png" alt="Unity" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_logo.svg" alt="Godot" width="50" height="50">
+<img src="https://godotengine.org/assets/press/logo_large_color_light.png" alt="Unity" width="50" height="50">
 Description:
 We create immersive gaming experiences using cutting-edge game engines and graphics programming techniques.
 
